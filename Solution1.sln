@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder1", "SolutionFolder1", "{0C0D0FEE-7608-4455-B5A6-34D2AA4D3E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9A1C8BCF-9F8D-4BF8-AFE6-240B5318CCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A1C8BCF-9F8D-4BF8-AFE6-240B5318CCF0} = {0C0D0FEE-7608-4455-B5A6-34D2AA4D3E77}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1C8BCF-9F8D-4BF8-AFE6-240B5318CCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1C8BCF-9F8D-4BF8-AFE6-240B5318CCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1C8BCF-9F8D-4BF8-AFE6-240B5318CCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1C8BCF-9F8D-4BF8-AFE6-240B5318CCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
